@@ -1,0 +1,7 @@
+./_deps/
+./phue_autogen/
+./Makefile
+./CMakeCache.txt
+./cmake_install.cmake
+./CMakeFiles/
+./.qt/
